@@ -1,2 +1,3 @@
 # My_web
-This is my primer website on git and 
+This is my first website on git. 
+
